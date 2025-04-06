@@ -1,4 +1,4 @@
-**🧠# Handwritten Digit Recognition**	
+**🧠Handwritten Digit Recognition**	
 
 This project implements a neural network model to recognize handwritten digits using the MNIST dataset. The model is trained using TensorFlow and Keras, and an OpenCV-based interface allows users to draw digits and see real-time predictions.
 
