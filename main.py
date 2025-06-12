@@ -28,3 +28,5 @@ run = False
 ix,iy = -1,-1
 follow = 25
 img = np.zeros((512,512,1))
+
+
